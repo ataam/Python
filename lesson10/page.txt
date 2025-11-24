@@ -1,0 +1,76 @@
+
+Header: Date
+Value: Mon, 24 Nov 2025 12:49:19 GMT
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Content-Type
+Value: application/json; charset=utf-8
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Transfer-Encoding
+Value: chunked
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Connection
+Value: keep-alive
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: access-control-allow-credentials
+Value: true
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Cache-Control
+Value: max-age=43200
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Content-Encoding
+Value: gzip
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: etag
+Value: W/"6b80-Ybsq/K6GwwqrYkAsFxqDXGC7DoM"
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: expires
+Value: -1
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: nel
+Value: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: pragma
+Value: no-cache
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: report-to
+Value: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=z1pjyBAx%2BLJYl3Q4Jj6WjSNQ7zy6vpVmpnTZ3jCpZmA%3D\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\u0026ts=1763564035"}],"max_age":3600}
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: reporting-endpoints
+Value: heroku-nel="https://nel.heroku.com/reports?s=z1pjyBAx%2BLJYl3Q4Jj6WjSNQ7zy6vpVmpnTZ3jCpZmA%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1763564035"
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Server
+Value: cloudflare
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: vary
+Value: Origin, Accept-Encoding
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: via
+Value: 2.0 heroku-router
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: x-content-type-options
+Value: nosniff
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: x-powered-by
+Value: Express
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: x-ratelimit-limit
+Value: 1000
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: x-ratelimit-remaining
+Value: 999
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: x-ratelimit-reset
+Value: 1763564053
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: Age
+Value: 462
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: cf-cache-status
+Value: HIT
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: CF-RAY
+Value: 9a3906903ec4ee47-WAW
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+Header: alt-svc
+Value: h3=":443"; ma=86400
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
